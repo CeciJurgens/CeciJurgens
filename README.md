@@ -1,12 +1,12 @@
+<span style="font-family: 'Lucida Console';">
 ### Hi there 👋
 
-📖 I’m studying software engineering at University of Buenos Aires.
-
-🌱 I’m currently learning C++ and Java.
-
-❤️ I love learning new stuff. 
-
+📖 I’m studying software engineering at University of Buenos Aires.  
+🌱 I’m currently learning C++ and Java.  
+❤️ I love learning new stuff.  
 📫 How to reach me: cecilia.jurgens@gmail.com
+  
+</span>
 
 <!--
 **CeciJurgens/CeciJurgens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
