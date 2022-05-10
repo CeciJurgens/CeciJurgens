@@ -1,8 +1,9 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="250"/>
-</div>
-  
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="250"/>
+</div>  
+
+#### Hi there 👋
+
 📖 I’m studying software engineering at University of Buenos Aires.  
 🌱 I’m currently learning C++ and Java.  
 ❤️ I love learning new stuff.  
