@@ -3,6 +3,7 @@
 📖 I’m studying software engineering at University of Buenos Aires.
 
 🌱 I’m currently learning C++ and Java.
+
 ❤️ I love learning new stuff. 
 
 📫 How to reach me: cecilia.jurgens@gmail.com
