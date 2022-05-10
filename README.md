@@ -1,12 +1,12 @@
-<span style="font-family: 'Lucida Console';">
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="250"/>
+</div>
+  
 📖 I’m studying software engineering at University of Buenos Aires.  
 🌱 I’m currently learning C++ and Java.  
 ❤️ I love learning new stuff.  
-📫 How to reach me: cecilia.jurgens@gmail.com
-  
-</span>
+📫 How to reach me: cecilia.jurgens@gmail.com  
 
 <!--
 **CeciJurgens/CeciJurgens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
