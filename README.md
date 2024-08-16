@@ -5,10 +5,11 @@
 #### Hi there 👋
 
 📖 I’m studying software engineering at University of Buenos Aires.  
-🌱 I’m currently learning C++ and Java.  
+🌱 I’m currently learning Java and Rust.  
 ❤️ I love learning new stuff.  
 📫 How to reach me: cecilia.jurgens@gmail.com  
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCeciJurgens&label=Visitors&countColor=%23263759)
 <!--
 **CeciJurgens/CeciJurgens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
